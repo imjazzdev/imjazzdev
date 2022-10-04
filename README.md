@@ -29,34 +29,17 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpub.dev%2Fpackages%2Fflutter_svg&psig=AOvVaw141A8Wi6RZyfG1CJPM61nO&ust=1664895400041000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiNtO6oxPoCFQAAAAAdAAAAABAI" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Flutter" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-flutter.svg?alt=media&token=ba87085d-35c4-4796-84f2-8cb9009f4f5e" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Dart" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-dart.svg?alt=media&token=e960c596-1f10-4b8d-b807-ae3557e0a3b6" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Firebase" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-firebase.svg?alt=media&token=710d3122-ae05-4ffc-afe4-8930f6896a21" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Android" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-android-os.svg?alt=media&token=66333de9-364e-4228-a9a3-f3b6a57ed936" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Ios" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-ios-logo.svg?alt=media&token=431b03cf-9051-469b-b9e5-a137c81d7f4e" style="padding-right:0px;" />][webdev]
 
 <br />
 <br />
 
----
-### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/imjazzdev/imjazzdev
 <!---
 imjazzdev/imjazzdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
