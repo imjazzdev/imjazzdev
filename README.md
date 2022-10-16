@@ -8,7 +8,7 @@
 
 ## Education: 🏫
 
-[Universitas Muhammadiyah Prof. Dr. Hamka](https://www.uhamka.ac.id) | Bachelor of Technical Informatics | Jakarta `2022 - Now`
+[Universitas Muhammadiyah Prof. Dr. Hamka](https://www.uhamka.ac.id) | Student of Technical Informatics | Jakarta `2022 - Now`
 
 [SMK BAKTI 17 JAKARTA](https://www.smkbakti17.sch.id) | Major of Technical Computer & Networking | Jakarta `2017 - 2020`
 
