@@ -10,7 +10,7 @@
 
 [Universitas Muhammadiyah Prof. Dr. Hamka](https://www.uhamka.ac.id) | Student of Technical Informatics | Jakarta `2022 - Now`
 
-[SMK BAKTI 17 JAKARTA](https://www.smkbakti17.sch.id) | Major of Technical Computer & Networking | Jakarta `2017 - 2020`
+[SMK Bakti 17 Jakarta](https://www.smkbakti17.sch.id) | Major of Technical Computer & Networking | Jakarta `2017 - 2020`
 
 ## Organization Experience
 ### 1. Member of HIMATI 2021-2022 (https://www.instagram.com/himati_uhamka)
