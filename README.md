@@ -4,7 +4,7 @@
 - 🌱 I’m Flutter Developer
 - 👯 I’m looking to collaborate as Mobile App Developer
 - 💬 Ask me about anything
-- 📫 How to reach me: izaazakhdan22@gmail.com
+- 📫 How to reach me: jazzdev01@gmail.com
 
 ## Education: 🏫
 
