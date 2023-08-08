@@ -25,6 +25,7 @@
 #### 2. [Freelance]
    - Build App 'Data Mahasiswa' [CRUD]
    - Build App 'Sugar Glider Care'
+   - other (repository)
 ---
 
 ### Languages and Tools:
