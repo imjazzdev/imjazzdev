@@ -1,32 +1,20 @@
 
 # Hi there, I'm Izaaz Akhdan - aka Izaaz 👋
-## About me:
-- 🌱 I’m Flutter Developer
-- 👯 I’m looking to collaborate as Mobile App Developer
-- 💬 Ask me about anything
-- 📫 How to reach me: jazzdev01@gmail.com
 
-## Education: 🏫
+📱 Saya seorang pengembang aplikasi mobile yang berfokus pada Flutter, platform yang memungkinkan untuk menciptakan pengalaman pengguna yang menarik dan responsif di berbagai platform, mulai dari Android hingga iOS.
 
-[Universitas Muhammadiyah Prof. Dr. Hamka](https://www.uhamka.ac.id) | Student of Technical Informatics | Jakarta `2022 - Now`
+🚀 Pengalaman saya mencakup:
+- Pengembangan aplikasi mobile menggunakan Flutter dan Dart.
+- Desain antarmuka pengguna (UI/UX) yang menarik dan ramah pengguna.
+- Pengujian dan debugging aplikasi untuk memastikan kualitas dan kinerja yang optimal.
+- Kolaborasi dalam tim pengembangan untuk mencapai tujuan bersama.
 
-[SMK Bakti 17 Jakarta](https://www.smkbakti17.sch.id) | Major of Technical Computer & Networking | Jakarta `2017 - 2020`
+🌟 Saya selalu mencari peluang untuk belajar dan berkembang
 
-## Organization Experience
-### 1. Member of HIMATI 2021-2022 (https://www.instagram.com/himati_uhamka)
-### 2. Head of Karang Taruna Sub-Unit 004/02 Ciganjur Jagakarsa Jakarta Selatan (https://www.instagram.com/katarasubunit42ciganjur)
+📫 Anda bisa menjangkau saya di jazzdev01@gmail.com atau melalui media sosial instagram [@jazzdev_](https://www.instagram.com/jazzdev_) untuk berdiskusi lebih lanjut tentang pengembangan aplikasi mobile, Flutter, atau proyek kolaboratif.
 
+Terima kasih telah mengunjungi profil GitHub saya. Mari kita ciptakan aplikasi mobile yang luar biasa bersama-sama!
 
-## Work Experience:
-#### 1. [ARINDA KOMPUTER](https://www.youtube.com/channel/UCC5II2e200COUOlOCYWz3Mg) | Technician | Jakarta `Jan'2019 - Maret'2019`
-   - Create a sales database
-   - Instalation OS, software etc.
-   - Troubleshooting hardware problems
-#### 2. [Freelance]
-   - Build App 'Data Mahasiswa' [CRUD]
-   - Build App 'Sugar Glider Care'
-   - other (repository)
----
 
 ### Languages and Tools:
 
