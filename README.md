@@ -1,35 +1,130 @@
+<div align="center">
 
-# Hi there, I'm Izaaz Akhdan - aka Izaaz 👋
+<img src="https://komarev.com/ghpvc/?username=imjazzdev&style=flat-square&color=FF6B2C&label=PROFILE+VIEWS" alt="Profile Views" />
 
-📱 Saya seorang pengembang aplikasi mobile yang berfokus pada Flutter, platform yang memungkinkan untuk menciptakan pengalaman pengguna yang menarik dan responsif di berbagai platform, mulai dari Android hingga iOS.
+</div>
 
-🚀 Pengalaman saya mencakup:
-- Pengembangan aplikasi mobile menggunakan Flutter dan Dart.
-- Desain antarmuka pengguna (UI/UX) yang menarik dan ramah pengguna.
-- Pengujian dan debugging aplikasi untuk memastikan kualitas dan kinerja yang optimal.
-- Kolaborasi dalam tim pengembangan untuk mencapai tujuan bersama.
+---
 
-🌟 Saya selalu mencari peluang untuk belajar dan berkembang
+<div align="center">
 
-📫 Anda bisa menjangkau saya di jazzdev01@gmail.com atau melalui media sosial instagram [@jazzdev_](https://www.instagram.com/jazzdev_) untuk berdiskusi lebih lanjut tentang pengembangan aplikasi mobile, Flutter, atau proyek kolaboratif.
+```
+  ██╗ █████╗ ███████╗███████╗██████╗ ███████╗██╗   ██╗
+  ██║██╔══██╗╚══███╔╝╚══███╔╝██╔══██╗██╔════╝██║   ██║
+  ██║███████║  ███╔╝   ███╔╝ ██║  ██║█████╗  ██║   ██║
+  ██║██╔══██║ ███╔╝   ███╔╝  ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██╗██║██║  ██║███████╗███████╗██████╔╝███████╗ ╚████╔╝ 
+╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝  ╚═══╝  
+```
 
-Terima kasih telah mengunjungi profil GitHub saya. Mari kita ciptakan aplikasi mobile yang luar biasa bersama-sama!
+###  `Mobile Enthusiast` · `UI/UX Craftsman`
 
+*Crafting beautiful mobile experiences, one line of code at a time.*
 
-### Languages and Tools:
+[![Instagram](https://img.shields.io/badge/@jazzdev__-FF6B2C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jazzdev_)
+[![GitHub](https://img.shields.io/badge/imjazzdev-FF6B2C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imjazzdev)
 
-[<img align="left" alt="Flutter" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-flutter.svg?alt=media&token=ba87085d-35c4-4796-84f2-8cb9009f4f5e" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Dart" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-dart.svg?alt=media&token=e960c596-1f10-4b8d-b807-ae3557e0a3b6" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Firebase" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-firebase.svg?alt=media&token=710d3122-ae05-4ffc-afe4-8930f6896a21" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Android" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-android-os.svg?alt=media&token=66333de9-364e-4228-a9a3-f3b6a57ed936" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Ios" width="50px" src="https://firebasestorage.googleapis.com/v0/b/sugar-glider-care-app.appspot.com/o/assetgit%2Ficons8-ios-logo.svg?alt=media&token=431b03cf-9051-469b-b9e5-a137c81d7f4e" style="padding-right:0px;" />][webdev]
+</div>
 
-<br />
-<br />
+---
 
+## 👋 About Me
 
-[webdev]: https://github.com/imjazzdev/imjazzdev
-<!---
-imjazzdev/imjazzdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey! I'm Jazzdev — a mobile app developer specializing in building native and cross-platform experiences for Android & iOS. I believe great apps aren't just about features, but about how they feel to use.
+
+- 📱 Crafting polished Android & iOS apps for real users
+- 🎨 Passionate about clean and intuitive UI/UX
+- 🐛 Meticulous about testing & debugging for top-notch quality
+- 🤝 Love collaborating in teams and open source projects
+- 📚 Always learning and keeping up with the latest in mobile tech
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Backend & Database**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**CI/CD**
+
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Operating System**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Deployment**
+
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imjazzdev&show_icons=true&theme=dark&title_color=FF6B2C&icon_color=FF6B2C&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjazzdev&layout=compact&theme=dark&title_color=FF6B2C&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imjazzdev&theme=dark&ring=FF6B2C&fire=FF6B2C&currStreakLabel=FF6B2C&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imjazzdev/imjazzdev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imjazzdev/imjazzdev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imjazzdev/imjazzdev/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+> *"A great app isn't the one with the most features — it's the one that's easiest to use."*
+
+I'm always open to discussions about Flutter, mobile development, or collaborative projects!
+Feel free to reach out. 🚀
+
+[![Instagram](https://img.shields.io/badge/DM_on_Instagram-FF6B2C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jazzdev_)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Made with ❤️ and ☕ by <a href="https://github.com/imjazzdev">imjazzdev</a></sub>
+</div>
