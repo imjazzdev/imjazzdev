@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=imjazzdev&style=flat-square&color=FF6B2C&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
 
 ---
 
